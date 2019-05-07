@@ -1,0 +1,13 @@
+  
+"name": "baazinow-test-bot",
+    "version": "1.0.0",
+    "description": "This is a baazinow-test-bot",
+    "main": "baazinow-test-bot.js",
+    "author": "Piyush{developer}",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
